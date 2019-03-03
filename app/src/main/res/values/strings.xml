@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">简易浏览器</string>
+    <string name="tips">遇到bug或有好的想法可以联系QQ:1962247851\n</string>
+    <string name="defHomeUrl">https://ilovefishc.com</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

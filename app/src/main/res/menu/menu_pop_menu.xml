@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_menu_pop_up_refresh"
+        android:title="刷新" />
+
+    <item
+        android:id="@+id/item_menu_pop_up_forward"
+        android:title="前进" />
+    <item
+        android:id="@+id/item_menu_pop_up_back"
+        android:title="后退" />
+    <item
+        android:id="@+id/item_menu_pop_up_home"
+        android:title="主页" />
+    <item
+        android:id="@+id/item_menu_pop_up_exit"
+        android:title="退出" />
+    <item
+        android:id="@+id/item_menu_pop_up_share"
+        android:title="分享" />
+    <item
+        android:id="@+id/item_menu_pop_up_open_with_other"
+        android:title="用浏览器打开" />
+<item
+        android:id="@+id/item_menu_pop_up_setting"
+        android:title="设置" />
+
+</menu>
