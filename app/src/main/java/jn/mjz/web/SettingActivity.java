@@ -62,7 +62,7 @@ public class SettingActivity extends AppCompatActivity {
                     GlobalUtil.getInstance().editor.putString("homeUrl", inputDialog.getStringUrl());
                     GlobalUtil.getInstance().editor.apply();
                     mTvHomeUrl.setText(inputDialog.getStringUrl());
-                    Toast.makeText(SettingActivity.this, "设置成功", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(SettingActivity.this, "设置成功!", Toast.LENGTH_SHORT).show();
                     inputDialog.dismiss();
                 } else {
                     Toast.makeText(SettingActivity.this, "请输入网址", Toast.LENGTH_SHORT).show();
